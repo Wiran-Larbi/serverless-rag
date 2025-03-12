@@ -1,0 +1,27 @@
+admin/.env
+client/.env
+
+a# Root level .env files
+.env
+.env.local
+.env.*.local
+
+# Admin directory .env files
+admin/.env
+admin/.env.local
+admin/.env.*.local
+
+# Client directory .env files
+client/.env
+client/.env.local
+client/.env.*.local
+
+# Development .env files
+.env.development
+.env.test
+.env.production
+
+# Backup .env files
+*.env.backup
+*.env.bak
+admin/.env
