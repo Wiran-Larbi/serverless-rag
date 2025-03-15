@@ -20,7 +20,7 @@ The system operates in two main stages:
 
 ### Document Processing Pipeline
 
-![RAG system architecture](/images/projects/project-serverlessrag/rag_architecture.png)
+![RAG system architecture](https://github.com/Wiran-Larbi/serverless-rag/blob/main/aws_architecture_of_project.png)
 
 #### Stage 1: Ingestion & Preparation
 1. **PDF Upload**: Users submit documents through admin interface
