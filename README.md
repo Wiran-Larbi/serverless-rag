@@ -20,7 +20,8 @@ The system operates in two main stages:
 
 ### Document Processing Pipeline
 
-![RAG system architecture](https://github.com/Wiran-Larbi/serverless-rag/blob/main/aws_architecture_of_project.png)
+![RAG system aws components architecture](https://github.com/Wiran-Larbi/serverless-rag/blob/main/rag_architecture_of_project.png)
+
 
 #### Stage 1: Ingestion & Preparation
 1. **PDF Upload**: Users submit documents through admin interface
@@ -35,9 +36,7 @@ The system operates in two main stages:
 4. **Answer Synthesis**: Augment LLM with context to generate final response
 
 ### AWS Infrastructure
-
-![RAG system aws components architecture](/images/projects/project-serverlessrag/aws_architecture.png)
-
+![RAG system architecture](https://github.com/Wiran-Larbi/serverless-rag/blob/main/aws_architecture_of_project.png)
 ## 🛠️ Technology Stack
 
 - **Frontend**: Streamlit
