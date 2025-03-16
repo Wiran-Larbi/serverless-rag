@@ -182,6 +182,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Wiran Larbi - [@WiranLarbi](https://twitter.com/WiranLarbi) - wiran.larbi@example.com
+Wiran Larbi - [@WiranLarbi](https://twitter.com/WiranLarbi) - wiranlarbiofficial@gmail.com 
+
+Website:
+[https://www.wiranlarbi.site](https://www.wiranlarbi.site)
 
 Project Link: [https://github.com/Wiran-Larbi/serverless-rag](https://github.com/Wiran-Larbi/serverless-rag)
