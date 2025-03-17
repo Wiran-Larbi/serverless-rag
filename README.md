@@ -141,7 +141,7 @@ https://api.example.com/client
 ```
 
 ### API Access
-The system exposes REST APIs for programmatic access. See the [API Documentation](docs/api.md).
+The system exposes REST APIs for programmatic access.
 
 ## 📝 FAQ
 
